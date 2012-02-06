@@ -37,7 +37,7 @@ vows.describe('Responder').addBatch({
       'should be a `RandomResponder`': (responder) ->
         assert.instanceOf(responder, RandomResponder)
       'shoud returns a response in the response-list': (responder) ->
-        assert.ok(responder.responses.indexOf(responder.response('質問')) >= 0)
+        assert.ok(responder.responses.indexOf(responder.response('質問')) > -1)
     }
   }
 
