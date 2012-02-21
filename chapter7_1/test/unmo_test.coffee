@@ -29,6 +29,8 @@ vows.describe('Unmo').addBatch({
       'can emotional adjust': (unmo) ->
         unmo.emotion.adjust_mood(10)
         assert.equal(unmo.emotion.mood, 10)
+      'can save': (unmo) ->
+        assert.equal(typeof unmo.save, 'function')
     }
   }
   'A Emotion': {
