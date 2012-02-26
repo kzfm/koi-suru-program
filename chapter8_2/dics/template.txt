@@ -1,0 +1,16 @@
+1	おはようから%noun%まで
+1	%noun%始まってるよ
+1	%noun%変えて
+1	%noun%食べたい
+1	%noun%がもこもこ出てきた
+1	%noun%が足りない
+1	%noun%ホイホイ
+1	落ち着け、%noun%はなるようにしかならん
+1	かけない%noun%
+2	%noun%が覚めたら、%noun%だった
+3	%noun%と%noun%と%noun%
+3	%noun%起きたら%noun%が%noun%を見ていた
+3	%noun%%noun%%noun%
+3	%noun%が%noun%に%noun%している
+3	%noun%%noun%って%noun%ですよ
+4	%noun%%noun%%noun%欲しい%noun%いるのかな
